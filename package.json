@@ -1,0 +1,23 @@
+{
+  "name": "honkboat",
+  "version": "1.0.0",
+  "description": "HonkBoat HONK!",
+  "main": "honkboat.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "duration": "^0.2.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./help"
+  },
+  "keywords": [
+    "honk",
+    "am",
+    "goose"
+  ],
+  "author": "Tazhys#0001",
+  "license": "ISC"
+}
