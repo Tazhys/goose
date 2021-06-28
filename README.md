@@ -15,7 +15,6 @@ Name|Link|Name|Link
 Honk|[More Information](#honk)|Invite|[More Information](#invite)
 Help|[More Information](#help)|Uptime|[More Information](#uptime)
 Stats|[More Information](#stats)|Support|[More Information](#support)
-Invite|[More Information](#vote)|Invite|[More Information](#invite)
 
 
 
